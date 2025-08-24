@@ -1,0 +1,40 @@
+Results
+
+A
+11:15:26.968 s // start
+11:15:27.011 Data collection started.
+11:15:33.461 p //stop
+11:15:33.831 Data collection stopped.
+11:15:33.836 Average Voltage (All Inputs): 12.16 V
+11:15:33.836 Optimal Inputs (All Inputs): 109
+11:15:33.836 Highest Voltage (All Inputs): 75.30 V
+11:15:33.836 Lowest Voltage (All Inputs): 0.02 V
+11:15:33.836 Average rate of optimal inputs (All Inputs): 0.06
+11:15:33.836 Total Time: 6.80 seconds
+11:15:33.836 Number of Peaks (Highest Input): 6
+
+B
+11:15:59.490 s
+11:15:59.834 Data collection started.
+11:16:06.483 p
+11:16:06.726 Data collection stopped.
+11:16:06.731 Average Voltage (All Inputs): 11.49 V
+11:16:06.731 Optimal Inputs (All Inputs): 183
+11:16:06.731 Highest Voltage (All Inputs): 57.51 V
+11:16:06.731 Lowest Voltage (All Inputs): 0.02 V
+11:16:06.731 Average rate of optimal inputs (All Inputs): 0.04
+11:16:06.731 Total Time: 6.90 seconds
+11:16:06.731 Number of Peaks (Highest Input): 0
+
+C
+11:16:18.445 s
+11:16:18.618 Data collection started.
+11:16:22.867 p
+11:16:22.918 Data collection stopped.
+11:16:22.923 Average Voltage (All Inputs): 13.20 V
+11:16:22.923 Optimal Inputs (All Inputs): 57
+11:16:22.923 Highest Voltage (All Inputs): 37.86 V
+11:16:22.923 Lowest Voltage (All Inputs): 0.88 V
+11:16:22.923 Average rate of optimal inputs (All Inputs): 0.08
+11:16:22.923 Total Time: 4.30 seconds
+11:16:22.923 Number of Peaks (Highest Input): 4
